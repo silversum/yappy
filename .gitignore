@@ -1,0 +1,9 @@
+*.egg-info/
+*.py[cod]
+.coverage
+.DS_Store/
+.mypy_cache/
+.pytest_cache/
+__pycache__/
+build/
+dist/
